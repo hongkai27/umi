@@ -171,7 +171,7 @@ history.goBack();
 
 ## hash 路由
 
-详见 [配置#history](../config#history)。
+详见 [配置#history](../config#history)
 
 ## Link 组件
 
